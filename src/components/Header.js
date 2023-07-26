@@ -8,11 +8,11 @@ const Header = () => {
         id="sideNav"
       >
         <Link class="navbar-brand js-scroll-trigger" to="/">
-          <span class="d-block d-lg-none">Clarence Taylor</span>
+          <span class="d-block d-lg-none">AKASH SHRIVASTAVA</span>
           <span class="d-none d-lg-block">
             <img
               class="img-fluid img-profile rounded-circle mx-auto mb-2"
-              src="assets/img/profile.jpg"
+              src="C:\Users\Mannan\Downloads\AKASH.jpeg"
               alt="..."
             />
           </span>
@@ -36,11 +36,6 @@ const Header = () => {
               </Link>
             </li>
             <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/experience">
-                Experience
-              </Link>
-            </li>
-            <li class="nav-item">
               <Link class="nav-link js-scroll-trigger" to="/education">
                 Education
               </Link>
@@ -53,11 +48,6 @@ const Header = () => {
             <li class="nav-item">
               <Link class="nav-link js-scroll-trigger" to="/interests">
                 Interests
-              </Link>
-            </li>
-            <li class="nav-item">
-              <Link class="nav-link js-scroll-trigger" to="/awards">
-                Awards
               </Link>
             </li>
           </ul>
